@@ -82,18 +82,3 @@ This repository is structured for **2 weeks of revision**:
 
 ---
 
-## 🚀 How to Use This Repo
-1. Follow the **Day-Wise Plan** for structured learning.
-2. Use **Concepts.md** in each section to revise theoretical knowledge.
-3. Try the **Hands-On Labs** for real-world experience.
-4. Practice with **Interview-QA.md** before interviews.
-5. Keep track of your progress and revisit challenging topics.
-
----
-
-## 💡 Contributing
-Feel free to add new interview questions, hands-on labs, or updates! 🚀
-
----
-
-This repo will be your go-to **revision guide** for DevOps interviews. Let me know if you'd like any modifications! 😊
