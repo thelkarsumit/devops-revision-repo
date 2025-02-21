@@ -13,13 +13,13 @@
 
 ### 2. Classful IP Addressing
 
-![Summary table for classful IP addressing](../images/Summary%20table%20for%20classful%20IP%20addressing.png)
+(![Summary table for classful IP addressing](<images/Summary table for classful IP addressing.png>))
 
 ### 3. Key Differences Between IPv4 and IPv6
 - **IPv4:** 32-bit address, uses decimal format, 4.3 billion addresses.
 - **IPv6:** 128-bit address, uses hexadecimal format, significantly larger address space.
 
-![Key Differences Between IPv4 and IPv6](../images/Key%20Differences%20Between%20IPv4%20and%20IPv6.png)
+(![Key Differences Between IPv4 and IPv6](<images/Key Differences Between IPv4 and IPv6.png>))
 
 ### 4. Subnet Mask and How It Works
 A subnet mask is a 32-bit number that divides an IP address into a network and host portion. For example:
