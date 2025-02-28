@@ -1,4 +1,4 @@
-### **Chapter 2: Load Balancer (External & Internal) and All Types Used in GCP**
+### **Chapter 3: Load Balancer (External & Internal) and All Types Used in GCP**
 
 
 #### **2.1. Introduction to Load Balancers**
