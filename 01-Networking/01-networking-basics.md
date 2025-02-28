@@ -31,6 +31,18 @@ The OSI model is a conceptual framework used to understand how different network
 | **Layer 6**: Presentation | Data translation, encryption, compression                | SSL, TLS, JPEG, GIF, ASCII                |
 | **Layer 7**: Application | Interaction with software applications                  | HTTP, FTP, DNS, SMTP, IMAP                |
 
+#### OSI Model as Sender
+
+**Sending Process Overview:**
+- **Application Layer (7):** User sends data using an application (e.g., web browser).
+- **Presentation Layer (6):** Data is formatted, encrypted, or compressed.
+- **Session Layer (5):** A connection is established between sender and receiver.
+- **Transport Layer (4):** Data is divided into smaller segments (TCP/UDP).
+- **Network Layer (3):** Each data segment is assigned source and destination IP addresses.
+- **Data Link Layer (2):** Data is packed into frames with hardware (MAC) addresses.
+- **Physical Layer (1):** Data is transmitted over a physical medium as electrical signals.
+
+[For more details visit other repo](https://github.com/thelkarsumit/project-repo/blob/main/revision_plan/documentation/01_networking_concepts_overview.md)
 #### **1.4 IP Addressing**
 IP addresses are unique identifiers for devices on a network. They are used to route data to the correct device within a network. There are two main types of IP addresses:
 
