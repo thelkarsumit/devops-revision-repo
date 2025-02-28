@@ -144,12 +144,12 @@ Load Balancers in GCP
 
 #### **2.7. Resources**
 - **Google Cloud Load Balancing Documentation**:
+  - [GCP Cloud Load Balancing Decision Tree](https://jayendrapatil.com/google-cloud-load-balancing-types/)
   - [GCP Load Balancing Overview](https://cloud.google.com/load-balancing/docs)
   - [External HTTP(S) Load Balancer](https://cloud.google.com/load-balancing/docs/https)
   - [External Application Load Balancer](https://cloud.google.com/load-balancing/docs/application)
   - [Network Load Balancer](https://cloud.google.com/load-balancing/docs/network)
   - [Internal HTTP(S) Load Balancer](https://cloud.google.com/load-balancing/docs/internal)
   - [Internal TCP/UDP Load Balancer](https://cloud.google.com/load-balancing/docs/internal)
-
 ---
 
