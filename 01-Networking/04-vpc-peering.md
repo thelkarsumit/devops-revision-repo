@@ -1,4 +1,4 @@
-### Chapter 4: **VPC Peering** – **In-Depth Learning**
+### Chapter 4: **VPC Peering**
 
 VPC Peering is a key networking concept in cloud environments, including GCP, that allows communication between two virtual private clouds (VPCs). It enables you to connect VPCs within the same project or across different projects and regions. The concept of VPC Peering is crucial when working in multi-cloud or multi-project architectures, and understanding it will help you manage network traffic between different VPCs securely and efficiently.
 
