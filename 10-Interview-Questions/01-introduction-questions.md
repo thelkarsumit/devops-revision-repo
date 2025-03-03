@@ -1,0 +1,31 @@
+### 1. **Tell me about yourself.**
+   - "I’m Sumit Chakradhar Thelkar, a DevOps Engineer with a focus on cloud computing and automation. I hold a B.Tech in Electrical Engineering and have been working with HCLTech since September 2022. My expertise includes managing cloud infrastructure, automating deployment pipelines, and reducing operational costs through Terraform, Kubernetes, Jenkins, and Azure/Google Cloud. I’m passionate about optimizing systems, improving performance, and ensuring reliability through automation. In my current role, I’ve been responsible for setting up CI/CD pipelines, managing automated patching, and designing scalable infrastructure for clients like Deutsche Bank and others."
+
+### 2. **What is your current role, and what are your key responsibilities?**
+   - "Currently, I’m working as an Analyst at HCLTech, where I handle cloud infrastructure management and automation for clients. My key responsibilities include designing and managing CI/CD pipelines using Kubernetes, Jenkins, and Argo CD, automating infrastructure provisioning with Terraform for Azure and Google Cloud, and ensuring system reliability through Azure Monitoring. I also lead the automated patching processes for security compliance, managing over 90 devices using Action1. I continually enhance my skills in cloud technologies like Azure and Google Cloud and keep up-to-date with industry best practices."
+
+### 3. **Why did you choose a career in DevOps?**
+   - "I was drawn to DevOps because it perfectly blends software development with operations, offering a way to optimize and automate processes across the software delivery lifecycle. I enjoy solving challenges related to infrastructure management, application deployment, and continuous integration/continuous delivery (CI/CD). DevOps allows me to ensure reliability and speed, two factors I value in any project, and the ability to work with cutting-edge technologies in cloud platforms, containers, and automation excites me."
+
+### 4. **Can you describe a time when you had to solve a complex problem in your current role?**
+   - "One of the complex problems I faced was during the setup of automated CI/CD pipelines for a large-scale deployment in the Sandbox Environment project. The initial configuration had issues with scaling and resource limits, leading to slow deployment times. I identified that the Kubernetes clusters needed optimized resource allocation and adjusted the configuration by setting proper resource requests and limits. I also implemented Helm charts to streamline deployment management, which resolved the issue and improved deployment efficiency significantly."
+
+### 5. **What are your greatest strengths as a DevOps Engineer?**
+   - "My strengths as a DevOps Engineer lie in my expertise with cloud platforms like Azure and Google Cloud, and my ability to automate processes effectively. I have a strong understanding of Infrastructure-as-Code (IaC) using Terraform, which allows me to provision and manage infrastructure efficiently. Additionally, I excel at managing CI/CD pipelines, ensuring smooth deployment cycles. I am also highly adaptable, continuously updating my skills to stay current with evolving technologies like Kubernetes, Jenkins, and various cloud services."
+
+### 6. **Why do you want to work with our company?**
+   - "I’ve researched your company and am impressed by the innovative work you’re doing in cloud computing and DevOps. The projects you work on align with my career goals, and I believe my experience with cloud platforms, automation tools, and infrastructure management would contribute to the continued success of your team. I also see this opportunity as a chance to grow in areas where I’m passionate, like advanced cloud architecture and complex automation, while working with talented professionals in a dynamic environment."
+
+### 7. **What are your long-term career goals, and how do you plan to achieve them?**
+   - "In the long term, I aim to become a Senior DevOps Engineer or Cloud Architect, focusing on optimizing cloud infrastructure and enhancing automation at an enterprise scale. To achieve this, I plan to continue deepening my expertise in cloud platforms like Azure and Google Cloud, improve my skills in Kubernetes and container orchestration, and earn more certifications in areas like cloud architecture and advanced DevOps practices. I also look forward to taking on leadership responsibilities to mentor junior engineers and contribute to strategic decision-making."
+
+### 8. **What motivates you in your work?**
+   - "I am motivated by the ability to solve complex problems and the continuous learning that comes with DevOps. The fast-paced nature of the field, combined with the ever-evolving technologies, keeps me engaged. I enjoy seeing the impact of my work, whether it's automating tasks to reduce manual effort, improving system reliability, or enhancing performance and scalability. Knowing that the solutions I implement help teams deploy faster and operate more efficiently is incredibly rewarding."
+
+### 9. **How do you keep up with the latest industry trends and technologies?**
+   - "I keep up with the latest trends through continuous learning, including online courses, certifications, and reading industry blogs. I’ve completed certifications in Azure, Google Cloud, and DevOps, and I regularly participate in webinars, tech meetups, and online forums like Stack Overflow and Reddit. I also dedicate time to hands-on practice, where I build and experiment with cloud infrastructure, CI/CD pipelines, and Kubernetes clusters to stay updated with the latest tools and best practices."
+
+### 10. **How do you prioritize tasks and manage your time when handling multiple projects?**
+   - "When managing multiple projects, I prioritize tasks based on urgency, impact, and deadlines. I use project management tools like Jira and Trello to track tasks, milestones, and dependencies. I break down large tasks into smaller, manageable steps and focus on delivering incremental progress. Regular communication with stakeholders and team members ensures I stay aligned with the project goals, and I always allocate time for troubleshooting and testing to avoid delays."
+
+---
