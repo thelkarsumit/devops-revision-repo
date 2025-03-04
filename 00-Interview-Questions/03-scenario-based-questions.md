@@ -100,7 +100,7 @@
    - **Step 4:** Refactor the application if necessary to take advantage of cloud-native features like auto-scaling, managed databases, and load balancing.
    - **Step 5:** Ensure proper testing and validation in a staging environment before full migration. Set up monitoring in the cloud to ensure performance.
 
-23. **Scenario: A critical security vulnerability has been identified in the software you're managing. How would you handle it?**
+2. **Scenario: A critical security vulnerability has been identified in the software you're managing. How would you handle it?**
    **Answer:**
    - **Step 1:** Immediately assess the severity of the vulnerability by reviewing the security advisories and CVE reports.
    - **Step 2:** If a patch is available, apply the patch to affected systems as soon as possible, starting with the most critical assets.
