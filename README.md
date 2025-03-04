@@ -1,7 +1,7 @@
 # Project Folder Structure
 
 Welcome to the DevOps Interview & Revision Repository! 🚀
-This repo is structured to help you revise key DevOps concepts efficiently over two weeks, covering hands-on practice, interview questions, and theoretical content.
+This repo is structured to help you revise key DevOps concepts efficiently, covering hands-on practice, interview questions, and theoretical content.
 
 ```text
 ├── .github/
@@ -52,4 +52,5 @@ This repo is structured to help you revise key DevOps concepts efficiently over 
 │   ├── README.md
 ├── 10-Linux/
 │   ├── 01-interview-questions.md
+├── README.md
 ```

@@ -67,7 +67,7 @@ def update_readme():
     with open('../../README.md', 'w') as file:
         file.write('# Project Folder Structure\n\n')
         file.write('Welcome to the DevOps Interview & Revision Repository! 🚀\n')
-        file.write('This repo is structured to help you revise key DevOps concepts efficiently over two weeks, covering hands-on practice, interview questions, and theoretical content.\n\n')
+        file.write('This repo is structured to help you revise key DevOps concepts efficiently, covering hands-on practice, interview questions, and theoretical content.\n\n')
         file.write('```text\n')  # Start the code block.
         file.write('\n'.join(toc))  # Join the list into a string with newlines for each item.
         file.write('\n```')  # End the code block.
