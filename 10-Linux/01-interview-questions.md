@@ -1,4 +1,4 @@
-The questions are divided into categories like Basic Commands, File Permissions, Networking, System Monitoring, Scripting, Package Management, Security, and OS Hardening.
+Here's a comprehensive list of Linux-related questions covering multiple sections. The questions are divided into categories like Basic Commands, File Permissions, Networking, System Monitoring, Scripting, Package Management, Security, and OS Hardening.
 
 ### Basic Commands
 1. **What command is used to list files in a directory?**
