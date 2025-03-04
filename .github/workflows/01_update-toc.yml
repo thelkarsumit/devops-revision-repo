@@ -30,7 +30,9 @@ jobs:
           fi
 
       - name: Run Table of Contents script
-        run: python .github/scripts/01_toc_generate_script.py
+        run: |
+          cd .github/scripts
+          python 01_toc_generate_script.py
 
       - name: Commit and push changes (if any)
         run: |
