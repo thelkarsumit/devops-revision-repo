@@ -1,5 +1,8 @@
 # Project Folder Structure
 
+Welcome to the DevOps Interview & Revision Repository! 🚀
+This repo is structured to help you revise key DevOps concepts efficiently over two weeks, covering hands-on practice, interview questions, and theoretical content.
+
 ```text
 ├── .github/
 │   ├── scripts/
@@ -50,4 +53,6 @@
 ├── 10-Linux/
 │   ├── 01-interview-questions.md
 ├── README.md
+├── REPO-FOLDER-STRUCTURE.md
+├── sumit-test.py
 ```
