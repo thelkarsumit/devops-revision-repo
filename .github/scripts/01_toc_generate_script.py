@@ -15,8 +15,12 @@ def generate_toc(directory, depth=0, exclude_folders=None, max_depth=5):
         exclude_folders = []
 
     toc = []
-    # List all items in the directory, including hidden folders (dot folders)
-    items = os.listdir(directory)
+    try:
+        # List all items in the directory, including hidden folders (dot folders)
+        items = os.listdir(directory)
+    except OSError as e:
+        print(f"Error accessing directory {directory}: {e}")
+        return toc
     
     # Sort items so folders appear before files (if any)
     items.sort()
@@ -36,12 +40,7 @@ def generate_toc(directory, depth=0, exclude_folders=None, max_depth=5):
         if os.path.isdir(item_path) and item not in exclude_folders:
             # Format the folder and add it to the ToC
             indent = '│   ' * depth  # Adjust for current depth.
-            if depth == 0:
-                toc.append(f"{'    ' * depth}├── {item}/")
-            elif depth == 1:
-                toc.append(f"{indent}├── {item}/")
-            else:
-                toc.append(f"{indent}├── {item}/")
+            toc.append(f"{indent}├── {item}/")
             
             # Recurse into subdirectories if the depth is less than max_depth
             toc += generate_toc(item_path, depth + 1, exclude_folders, max_depth)
@@ -65,16 +64,13 @@ def update_readme():
     toc = generate_toc(base_dir, exclude_folders=exclude_folders)
     
     # Write the ToC to the README.md file
-    with open('../../REPO-FOLDER-STRUCTURE.md', 'w') as file:
+    with open('../../README.md', 'w') as file:
         file.write('# Project Folder Structure\n\n')
+        file.write('Welcome to the DevOps Interview & Revision Repository! 🚀\n')
+        file.write('This repo is structured to help you revise key DevOps concepts efficiently over two weeks, covering hands-on practice, interview questions, and theoretical content.\n\n')
         file.write('```text\n')  # Start the code block.
         file.write('\n'.join(toc))  # Join the list into a string with newlines for each item.
         file.write('\n```')  # End the code block.
 
 if __name__ == "__main__":
     update_readme()
-
-
-
-
-
