@@ -42,4 +42,4 @@ jobs:
           git commit -m "Update Table of Contents" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Automatically provided by GitHub Actions
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Automatically provided by GitHub Actions
