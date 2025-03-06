@@ -22,10 +22,7 @@ This repo is structured to help you revise key DevOps concepts efficiently, cove
 │   ├── 07-onprem-to-gcp-vpc.md
 │   ├── 08-cloud-security-best-practices.md
 ├── 02-Terraform/
-│   ├── Advanced-Concepts.md
-│   ├── Basics.md
-│   ├── Interview-QA.md
-│   ├── README.md
+│   ├── 01-comparison-of-List-and-Map.md
 ├── 03-GitHub-Actions/
 │   ├── CI-CD-Pipelines.md
 │   ├── Interview-QA.md
